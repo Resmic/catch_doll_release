@@ -1,5 +1,6 @@
 {
-  "versionCode": 250406001,
-  "versionName": "v1.0.0",
-  "apkUrl": "https://github.com/User123/MyApp-Releases/releases/download/v1.0.0/app-release.apk"
+  "latestVersionCode": 250406001,
+  "latestVersion": "v1.0.0",
+  "releaseNotes": "1、first version",
+  "url": "https://github.com/User123/MyApp-Releases/releases/download/v1.0.0/app-release.apk"
 }
