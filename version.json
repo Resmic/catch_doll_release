@@ -1,7 +1,7 @@
 {
-    "latestVersionCode": 250406021,
+    "latestVersionCode": 250406030,
     "latestVersion": "1.0.0",
-    "releaseNotes": "1\u3001\u65b0\u589eGithubApkPublisher\u5de5\u5177\n2\u3001\u66f4\u65b0\u7248\u672c",
-    "url": "https://raw.githubusercontent.com/Resmic/catch_doll_release/main/release/app_release_build_250406021.apk",
-    "updateTime": "2025-04-06 15:09"
+    "releaseNotes": "1、新增GithubApkPublisher工具\n2、更新版本\n3、优化升级功能",
+    "url": "https://raw.githubusercontent.com/Resmic/catch_doll_release/main/release/app_release_build_250406030.apk",
+    "updateTime": "2025-04-06 15:38"
 }
